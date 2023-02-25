@@ -5,7 +5,7 @@
 To run the console app:
 ```console
 foo@bar:~$ dotnet run
-foo@bar:~$ Please enter the input file path, then press ENTER: D://input.txt
+foo@bar:~$ Please enter the input file path then press ENTER: D://input.txt
 ```
 
 To run tests:
